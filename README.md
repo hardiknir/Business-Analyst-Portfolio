@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik Niranjan</h1>
-<h3 align="center">I am a business analyst from India</h3>
+<h3 align="center">Empowering Businesses with Data-Driven Solutions and Strategic Insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiknir&label=Profile%20views&color=0e75b6&style=flat" alt="hardiknir" /> </p>
 
