@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiknir&label=Profile%20views&color=0e75b6&style=flat" alt="hardiknir" /> </p>
 
-- 🔭 I’m currently working as a [Cyber Security Analyst at](Deloitte, UK)
+- 🔭 I’m currently working as a Customer service officer with Mitie at Deloitte,UK.
 
 - 🌱 I’m currently learning **AI models**
 
