@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiknir&label=Profile%20views&color=0e75b6&style=flat" alt="hardiknir" /> </p>
 
-- 🔭 I’m currently working as a Customer service officer with Mitie at Deloitte,UK.
+- 🔭 I’m currently working as a Security & Risk Operations Analyst at Deloitte,UK.
 
 - 🌱 I’m currently learning **AI models**
 
-- 👯 I’m looking for a job as a **Business Analyst**
+- 👯 I’m looking for an oportunity where I can put my skills to their best use.
 
 - 👨‍💻 All of my projects are available at [https://github.com/hardiknir/Business-Analyst-Portfolio](https://github.com/hardiknir/Business-Analyst-Portfolio)
 
