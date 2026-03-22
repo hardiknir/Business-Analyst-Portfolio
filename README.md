@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI models**
 
-- 👯 I’m looking for an oportunity where I can put my skills to their best use.
+- 👯 I’m looking for an opportunity where I can put my skills to their best use.
 
 - 👨‍💻 All of my projects are available at [https://github.com/hardiknir/Business-Analyst-Portfolio](https://github.com/hardiknir/Business-Analyst-Portfolio)
 
